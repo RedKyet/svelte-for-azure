@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>Home Lazar</title>
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
